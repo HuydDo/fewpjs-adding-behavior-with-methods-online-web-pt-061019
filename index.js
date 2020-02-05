@@ -34,5 +34,3 @@ class Bird {
 
 }
 
-mac = new Dog
-console.log(mac.speak())
